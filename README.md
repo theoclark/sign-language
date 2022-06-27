@@ -4,11 +4,13 @@ App to read the American Sign Language alphabet. For more information, read the 
 
 ![example](https://github.com/theoclark/sign_language/blob/main/example.gif)
 
-![alphabet](https://github.com/theoclark/sign_language/blob/main/Symbols.png)
-
 ## Usage
 
-To use the app, download or clone the repository and run ```bash python app.py 50 ```. The model works best against a clear background. The hand must be inside the box.
+To use the app, download or clone the repository and run ```bash python app.py```. The model works best against a clear background. The hand must be inside the box.
+
+American Sign Language alphabet:
+
+![alphabet](https://github.com/theoclark/sign_language/blob/main/Symbols.png)
 
 ## Training
 
