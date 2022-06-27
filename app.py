@@ -1,4 +1,3 @@
-import keyboard
 from time import time, sleep
 import torch
 from torch import nn
