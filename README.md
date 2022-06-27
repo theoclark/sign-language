@@ -1,6 +1,6 @@
 # Sign-Language Detection App
 
-App to read the American Sign Language alphabet. For more information, read the [blog post](https://theoclark.co.uk/posts/sign-language). Example usage and full alphabet below:
+App to read the American Sign Language alphabet. For more information, read the [blog post](https://theoclark.co.uk/posts/sign-language).
 
 ![example](https://github.com/theoclark/sign_language/blob/main/example.gif)
 
