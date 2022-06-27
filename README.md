@@ -6,7 +6,7 @@ App to read the American Sign Language alphabet. For more information, read the 
 
 ## Usage
 
-To use the app, download or clone the repository and run ```bash python app.py```. The model works best against a clear background. The hand must be inside the box.
+To use the app, download or clone the repository and run ```python app.py```. The model works best against a clear background. The hand must be inside the box.
 
 American Sign Language alphabet:
 
